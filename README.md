@@ -7,13 +7,13 @@ This repository contains a deployment script for the My Jekyll Website, simplify
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/empireelements/jekyllwebsite-deployment-script.git
+    git clone https://github.com/rickzkm/jekyll-to-aws-s3-deployment-script.git
     ```
 
 2. Navigate to the repository directory:
 
     ```bash
-    cd jekyllwebsite-deployment-script
+    cd jekyll-to-aws-s3-deployment-script
     ```
 
 3. Make sure you have the necessary prerequisites installed:
@@ -30,7 +30,7 @@ This repository contains a deployment script for the My Jekyll Website, simplify
     REPO_URL="https://github.com/myrepository/jekyllwebsite"
     BRANCH="main"
     S3_BUCKET="s3://jekyllwebsite.app"
-    CF_DIST_ID="E63CYFDQYJCNF"
+    CF_DIST_ID="YOUR_CLOUDFRONT_ID"
     WEBSITE_DIR="/path/to/jekyllwebsite/website"
     ```
 

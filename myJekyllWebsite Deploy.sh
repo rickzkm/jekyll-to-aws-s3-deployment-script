@@ -4,7 +4,7 @@
 REPO_URL="https://github.com/myrepository/jekyllwebsite"
 BRANCH="main"
 S3_BUCKET="s3://jekyllwebsite.app"
-CF_DIST_ID="E63CYFDQYJCNF"
+CF_DIST_ID="YOUR_CLOUDFRONT_ID"
 WEBSITE_DIR="/Users/yourlocalname/Documents/GitHub/jekyllwebsiteapp/website"
 
 # Set AWS access key ID and secret access key as environment variables
