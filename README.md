@@ -57,4 +57,4 @@ This repository contains a deployment script for the My Jekyll Website, simplify
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+Feel free to change, customise and modify without any limitations. Just remember, with great power comes great... well, you get the idea. Be kind to your fellow developers, play nice with the code, and above all, have fun!
